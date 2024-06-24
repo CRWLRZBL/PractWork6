@@ -1,0 +1,15 @@
+V:\ispp21\PractWork6\PractWork6\obj\Debug\PractWork6.csproj.AssemblyReference.cache
+V:\ispp21\PractWork6\PractWork6\obj\Debug\MainWindow.g.cs
+V:\ispp21\PractWork6\PractWork6\obj\Debug\App.g.cs
+V:\ispp21\PractWork6\PractWork6\obj\Debug\PractWork6_MarkupCompile.cache
+V:\ispp21\PractWork6\PractWork6\obj\Debug\PractWork6_MarkupCompile.lref
+V:\ispp21\PractWork6\PractWork6\bin\Debug\PractWork6.exe.config
+V:\ispp21\PractWork6\PractWork6\bin\Debug\PractWork6.exe
+V:\ispp21\PractWork6\PractWork6\bin\Debug\PractWork6.pdb
+V:\ispp21\PractWork6\PractWork6\obj\Debug\MainWindow.baml
+V:\ispp21\PractWork6\PractWork6\obj\Debug\PractWork6.g.resources
+V:\ispp21\PractWork6\PractWork6\obj\Debug\PractWork6.Properties.Resources.resources
+V:\ispp21\PractWork6\PractWork6\obj\Debug\PractWork6.csproj.GenerateResource.cache
+V:\ispp21\PractWork6\PractWork6\obj\Debug\PractWork6.csproj.CoreCompileInputs.cache
+V:\ispp21\PractWork6\PractWork6\obj\Debug\PractWork6.exe
+V:\ispp21\PractWork6\PractWork6\obj\Debug\PractWork6.pdb
